@@ -1,5 +1,7 @@
 JNBT 1.4 Beta
 
+Cleaned-up repo by Pylo.
+
 The original JNBT project seems to have been abandoned.
 This fork of JNBT has mainly added support for Tag_Int_Array
 
